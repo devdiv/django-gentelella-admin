@@ -1,8 +1,5 @@
 ## [Gentelella Admin Template](https://github.com/devdiv/django-gentelella-admin.git)
 
-#### Steps
-[Optional] [Set up a virtualenv and activate](http://python-guide-pt-br.readthedocs.io/en/latest/dev/virtualenvs/) 
-
 ##### Get the code
     git clone https://github.com/devdiv/django-gentelella-admin.git
     cd django-gentelella
